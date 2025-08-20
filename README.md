@@ -1,4 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio
+
+This is a Next.js portfolio project with the following features:
+
+- Add new projects with GitHub and live demo links
+- Add new blogs using Markdown files (`/content/blogs`)
+- Personality/interests section using Markdown files (`/content/interests`), each interest has its own page
+- Social media links
+- Built with Next.js, Tailwind CSS, TypeScript
+- Ready for deployment on Vercel
+
+## Getting Started
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Run the development server:
+   ```bash
+   npm run dev
+   ```
+3. Add blogs to `content/blogs` and interests to `content/interests` as Markdown files.
+
+## Deployment
+
+Deploy easily to Vercel by connecting your GitHub repo and importing the project.
+
+---
+
+Replace this README with your own details!
 
 ## Getting Started
 
