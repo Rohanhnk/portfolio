@@ -12,11 +12,11 @@ const projects: Project[] = [
     demo: "https://rohanbudgetapp.netlify.app",
   },
   {
-    title: "Task Management App",
+    title: "Padre Gino's Pizza App",
     description:
-      "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
-    github: "https://github.com/yourusername/task-manager",
-    demo: "rohanbudgetapp.netlify.app/",
+      "A full-stack React pizza ordering application featuring an interactive menu, shopping cart, order management, and customer contact system. Built with React, Node.js, Fastify backend, and SQLite database.",
+    github: "https://github.com/Rohanhnk/Padre---Ginos",
+    demo: "https://pizza-app-demo.netlify.app",
   },
   {
     title: "Quiz App",
