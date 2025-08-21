@@ -5,25 +5,25 @@ import HeroSection from "@/components/HeroSection";
 
 const projects: Project[] = [
   {
-    title: "E-Commerce Platform",
+    title: "Budget App",
     description:
-      "A modern e-commerce platform built with Next.js, featuring cart functionality, payment integration, and admin dashboard.",
-    github: "https://github.com/yourusername/ecommerce-platform",
-    demo: "https://ecommerce-demo.netlify.app",
+      "A simple and interactive budget management web application built with HTML, CSS, and JavaScript. Track income, expenses, and spending progress with real-time updates and a clean user experience.",
+    github: "https://github.com/Rohanhnk/REACT-ROUTER-BUDGET",
+    demo: "https://rohanbudgetapp.netlify.app",
   },
   {
     title: "Task Management App",
     description:
       "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
     github: "https://github.com/yourusername/task-manager",
-    demo: "https://task-manager-demo.netlify.app",
+    demo: "rohanbudgetapp.netlify.app/",
   },
   {
-    title: "Weather Dashboard",
+    title: "Quiz App",
     description:
-      "A beautiful weather dashboard with location-based forecasts, interactive maps, and detailed weather analytics.",
-    github: "https://github.com/yourusername/weather-dashboard",
-    demo: "https://weather-dashboard-demo.netlify.app",
+      "A web-based trivia quiz application built with vanilla JavaScript, HTML, and CSS. Features multiple categories, real-time scoring, high score leaderboard, and dynamic questions from Open Trivia Database API.",
+    github: "https://github.com/Rohanhnk/quizapp",
+    demo: "https://knowledgexp.netlify.app",
   },
 ];
 
